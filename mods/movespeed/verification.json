@@ -1,0 +1,12 @@
+{
+  "Date": "2026-10-14",
+  "PluginVersion": "6.0.0",
+  "GameBuild": "1.1.13.99712",
+  "DLLSha256": "2753FBF6BE344B980DD01EAF651930FD4311EC573834A615A00092C531673DAF",
+  "LocalFormsAndRestorationValidated": true,
+  "FactorUsedForLocalTest": 3,
+  "CloudDeploymentValidated": false,
+  "FullLiveMountedMovementValidated": false,
+  "PublishedBuildContainsNativeValidationHarness": false,
+  "EvidencePolicy": "Raw logs, character names, server settings, and local saves are retained privately; not redistributed."
+}

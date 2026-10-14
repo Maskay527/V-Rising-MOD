@@ -1,0 +1,4 @@
+# Preserve the reviewed source/config bytes and binary release hashes.
+* -text
+# Keep the pre-existing license's text normalization.
+LICENSE text=auto eol=lf

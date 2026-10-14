@@ -1,0 +1,12 @@
+.env
+.env.*
+*.log
+*.save
+*.save.gz
+*.rsp
+*_构建缓存_*/
+.validate/
+obj/
+bin/
+trash/
+__pycache__/
